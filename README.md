@@ -1,0 +1,1 @@
+# microservice-dojo-configuration
